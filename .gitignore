@@ -1,0 +1,10 @@
+runcuda.cu
+# Ignore compiled binaries and object files
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.lib
+*.so
+*.dll
