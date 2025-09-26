@@ -4,21 +4,6 @@ A GPU-accelerated implementation of a neural network for the MNIST digit classif
 
 ---
 
-## Table of Contents
-
-- [About](#about)  
-- [Features](#features)  
-- [Project Structure](#project-structure)  
-- [Requirements](#requirements)  
-- [Building / Compilation](#building--compilation)  
-- [Running / Usage](#running--usage)  
-- [Performance / Benchmarks](#performance--benchmarks)  
-- [Future Work](#future-work)  
-- [Credits](#credits)  
-- [License](#license)
-
----
-
 ## About
 
 This project demonstrates how to build a simple neural network for digit recognition (MNIST dataset) with GPU acceleration using CUDA. It includes custom CUDA kernels, data loading in C/C++/Python, and training / inference logic.
