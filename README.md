@@ -11,7 +11,7 @@ This project demonstrates how to build a simple neural network for digit recogni
 - Custom CUDA kernels for forward and backward propagation  
 - Integration of host-side code (C/C++ / Python) with GPU execution  
 - Simple MLP (multi-layer perceptron) architecture for MNIST  
-- Ability to train from scratch or load precomputed weights  
-- Demonstrates low-level GPU programming concepts (memory management, kernel launches, synchronization)  
+- Demonstrates low-level GPU programming concepts (memory management, kernel launches, synchronization)
+- POC for more advanced projects in the future.
 
 
